@@ -1,0 +1,7 @@
+{
+  "name": "NSW Lingua Connect AI Translator",
+  "description": "A real-time voice conversation translator powered by Gemini. Speak in your native language and hear instant translations, enabling seamless communication with anyone, anywhere.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
